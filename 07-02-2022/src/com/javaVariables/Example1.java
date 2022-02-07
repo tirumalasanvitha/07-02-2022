@@ -14,16 +14,16 @@ public class Example1 {
 		studentMarks=54.82f;
 		studentAddress="Nizamabad";
 		
-		System.out.println("studentId:");
+		System.out.print("studentId:");
 		System.out.println(studentId);
 		
-		System.out.println("studentName:");
+		System.out.print("studentName:");
 		System.out.println(studentName);
 		
-		System.out.println("studentMarks:");
+		System.out.print("studentMarks:");
 		System.out.println(studentMarks);
 		
-		System.out.println("studentAddress:");
+		System.out.print("studentAddress:");
 		System.out.println(studentAddress);
 		
 		
